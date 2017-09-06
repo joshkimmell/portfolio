@@ -3,6 +3,6 @@
 //////////////////////////////
 // Require Gulp and grab Armadillo
 //////////////////////////////
-var gulp = require('gulp');
+const gulp = require('gulp');
 
 require('gulp-armadillo')(gulp);
